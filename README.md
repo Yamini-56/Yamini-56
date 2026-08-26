@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi 👋 I'm Yamini
 
-<!--
-**Yamini-56/Yamini-56** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE (AI & ML) Student
 
-Here are some ideas to get you started:
+💻 Currently learning Python, Data Structures & Algorithms, and Machine Learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Interested in Artificial Intelligence, Machine Learning, and Software Development.
+
+📚 Currently building my programming fundamentals and working on practical projects.
+
+## 🛠️ Skills I'm Learning
+
+- Python
+- C / C++
+- Git & GitHub
+- SQL
+- Machine Learning
+
+## 🎯 Goals
+
+- Build practical AI/ML projects
+- Improve problem-solving skills
+- Learn Data Structures & Algorithms
+- Explore open-source development
+
+## 📌 Currently Learning
+
+- Python
+- Data Structures & Algorithms
+- Machine Learning
+- Git & GitHub
